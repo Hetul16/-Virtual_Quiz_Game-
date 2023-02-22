@@ -1,2 +1,2 @@
 # -Virtual_Quiz_Game-
-I make this Project Using Python Opencv, cv2 , cvzone library  
+I made this Project Using Python Opencv, cv2 , cvzone library  
